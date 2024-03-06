@@ -20,5 +20,3 @@ resultado = soma_nao_multiplos_de_13(numero_01, numero_02)
 
 
 print(resultado)
-
-

@@ -1,5 +1,3 @@
-package palindromos
-
 import (
 	"bufio"
 	"fmt"
